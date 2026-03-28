@@ -1,6 +1,6 @@
-# 📊 Financial Operations Analytics Project
+#  Financial Operations Analytics Project
 
-## 👩‍💻 About the Project
+##  About the Project
 
 This project focuses on analyzing financial data for a SaaS (subscription-based) business.
 The main goal is to understand customer behavior, predict revenue, and identify customers who may stop using the service.
@@ -9,7 +9,7 @@ Through this project, I applied concepts of data analysis, machine learning, and
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Predict future revenue using time series analysis
 * Identify customers at risk of churn
@@ -18,7 +18,7 @@ Through this project, I applied concepts of data analysis, machine learning, and
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas, NumPy
@@ -28,7 +28,7 @@ Through this project, I applied concepts of data analysis, machine learning, and
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 financial-operations-analytics/
@@ -50,27 +50,27 @@ financial-operations-analytics/
 
 ---
 
-## 🔬 Key Features
+##  Key Features
 
-### 📈 Revenue Forecasting
+###  Revenue Forecasting
 
 Used time series models (ARIMA) to predict future revenue trends based on historical data.
 
-### 🎯 Churn Prediction
+###  Churn Prediction
 
 Built a machine learning model to identify customers who are likely to leave the service.
 
-### 👥 Customer Segmentation
+###  Customer Segmentation
 
 Performed RFM (Recency, Frequency, Monetary) analysis to group customers into different segments.
 
-### 📊 Data Visualization
+###  Data Visualization
 
 Created multiple visualizations to better understand trends and patterns in the data.
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
 
@@ -92,7 +92,7 @@ python financial_analytics.py
 
 ---
 
-## 📊 Key Learnings
+##  Key Learnings
 
 * Understanding time series forecasting
 * Applying machine learning for classification problems
@@ -101,13 +101,13 @@ python financial_analytics.py
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project helped me understand how data analytics can be applied in real-world business scenarios, especially in SaaS-based companies. It improved my skills in data analysis, visualization, and machine learning.
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Build an interactive dashboard (Streamlit/Power BI)
 * Improve model accuracy
@@ -116,7 +116,7 @@ This project helped me understand how data analytics can be applied in real-worl
 
 ---
 
-## 👩‍🎓 Author
+##  Author
 
 Divyanjali Tyagi
 
