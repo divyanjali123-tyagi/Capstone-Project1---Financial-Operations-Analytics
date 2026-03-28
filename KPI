@@ -1,0 +1,33 @@
+ KPI Summary
+ Revenue Performance
+
+The business has generated a total revenue of $35.8M so far.
+Currently, the company earns around $1.16M per month (MRR), which translates to an annual revenue of $13.9M (ARR).
+
+The average revenue per customer is $7,166, and revenue has grown by 13.26% over the last 6 months, indicating a steady upward trend.
+
+ Customer Insights
+
+The dataset contains 5,000 customers, out of which 4,344 are active and 656 have churned.
+
+The overall churn rate is 13.12%, and on average, a customer stays with the company for about 27 months.
+
+Customer Value
+
+The average Customer Lifetime Value (CLV) is $7,166, meaning each customer contributes significantly over time.
+
+The CLV to CAC ratio is 14.33x, which suggests the business is highly profitable (customers generate much more value than acquisition cost).
+
+On average, the company recovers its customer acquisition cost within 5 months.
+
+ Forecasting Insights
+
+The model predicts a total revenue of $15.7M for the next 12 months, with an average monthly revenue of about $1.3M.
+
+The forecasting model is highly accurate with an error rate (MAPE) of just 0.73%.
+
+ Risk Analysis
+
+There are 652 customers at high risk of churning, which could result in a potential revenue loss of approximately $2M annually.
+
+The current at-risk monthly revenue is $166K, making churn reduction a key priority.
